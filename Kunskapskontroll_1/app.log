@@ -1,0 +1,13 @@
+2025-08-30 15:35:28,924 - util.test_main - DEBUG - ------------------------------------------------------------
+2025-08-30 15:35:28,924 - util.test_main - INFO - Running test...
+2025-08-30 15:35:28,924 - util.test_main - INFO - Test: iso_date_converter PASSED!
+2025-08-30 15:35:28,924 - util.test_main - INFO - All test completed.
+2025-08-30 15:35:29,614 - __main__ - DEBUG - ------------------------------------------------------------
+2025-08-30 15:35:29,614 - __main__ - INFO - Starting data retrieval from SMHI API.
+2025-08-30 15:35:29,615 - __main__ - INFO - Connecting to SMHI API...
+2025-08-30 15:35:29,778 - __main__ - INFO - Successful, data saved for: Malmö-Sturup Flygplats
+2025-08-30 15:35:29,778 - __main__ - INFO - Connecting to SMHI API...
+2025-08-30 15:35:29,898 - __main__ - INFO - Successful, data saved for: Göteborg-Landvetter Flygplats
+2025-08-30 15:35:29,898 - __main__ - INFO - Connecting to SMHI API...
+2025-08-30 15:35:29,993 - __main__ - INFO - Successful, data saved for: Stockholm-Arlanda Flygplats
+2025-08-30 15:35:29,993 - __main__ - INFO - Database connection closed.
